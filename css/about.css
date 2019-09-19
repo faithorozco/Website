@@ -1,20 +1,23 @@
+
 .us{
    position: relative;
    right:100px;
-   /* width: 100%; */
-  
 
 }
 h1{
    position: relative;
-   bottom:100px;
-   right:950px;
+   bottom:900px; 
+   left:350px;
+   
 }
-p{
-   position: relative;
-   left:800px;
-   bottom:850px;
-}
+
 .words{
    font-size:20px;
+   position: relative;
+   float:right;
+   bottom:900px;
+}
+
+main{
+   height: 450px;
 }
